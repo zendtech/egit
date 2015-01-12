@@ -21,7 +21,7 @@
 
   <groupId>org.eclipse.egit</groupId>
   <artifactId>egit-parent</artifactId>
-  <version>3.5.3.201412180710-r</version>
+  <version>3.5.3-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>EGit Parent</name>
